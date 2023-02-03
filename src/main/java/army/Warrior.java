@@ -14,7 +14,6 @@ public abstract class Warrior {
     }
 
     public void go() {
-        System.out.println("Я пошел устраивать махач");
     }
     abstract int attack();
     abstract int defend();
